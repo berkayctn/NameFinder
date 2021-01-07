@@ -1,5 +1,5 @@
 # NameFinder
-## This program extracts names from the given web page and prints them to the console. With using Jsoup and OpenNLP.
+## This program extracts names from the given web page and prints them to the console with using Jsoup and OpenNLP.
 
 * The program will take a URL as an argument
 * How to use ?
