@@ -7,3 +7,5 @@
 * 2-Clone the project
 * 3-mvn clean package
 * 4-java -jar target\finder.jar {URL}
+
+--> I'm currently working on a new upgrade.
