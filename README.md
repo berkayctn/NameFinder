@@ -8,4 +8,4 @@
 * 3-mvn clean package
 * 4-java -jar target\finder.jar {URL}
 
---> I'm currently working on a new upgrade.
+--> I will update this project for an easier use.
