@@ -3,9 +3,8 @@
 
 * The program will take a URL as an argument
 * How to use ?
-* 1-Open cmd or bash or etc.
-* 2-Clone the project
-* 3-mvn clean package
-* 4-java -jar target\finder.jar {URL}
+* 1-Open cmd or bash or etc. in the location where you cloned this project.
+* 2-mvn clean package
+* 3-java -jar target\finder.jar {URL}  -> Enter a web page URL you want to use here
 
 --> I will update this project for an easier use.
